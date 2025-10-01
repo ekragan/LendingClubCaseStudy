@@ -15,7 +15,6 @@ figure out if the borrower is creditworthy and approve the loan and how to pick 
 - Business Problem. 
 
 The company wants to identify risky applicants and understand the factors that drive loan defaults.
-
     1. Seperating high-risk applicants from reliable borrowers and avoid lending them the loan
     2. Optimize interest rates and loan terms based on applicants risk profile.
     3. Understand the reasons for loan default and then filter the customer pool accordingly.
